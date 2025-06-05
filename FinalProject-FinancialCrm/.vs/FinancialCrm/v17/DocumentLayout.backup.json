@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ilyas\\source\\repos\\FinancialCrm\\",
+  "WorkspaceRootPath": "C:\\Users\\Ilyas\\Documents\\GitHub\\CSharpEgitimKampi-MuratYucedag\\FinalProject-FinancialCrm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A0BD86B9-FC1A-463F-A0CA-DE54740E5565}|FinancialCrm\\FinancialCrm.csproj|c:\\users\\ilyas\\source\\repos\\financialcrm\\financialcrm\\frmbanks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A0BD86B9-FC1A-463F-A0CA-DE54740E5565}|FinancialCrm\\FinancialCrm.csproj|c:\\users\\ilyas\\documents\\github\\csharpegitimkampi-muratyucedag\\finalproject-financialcrm\\financialcrm\\frmbanks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A0BD86B9-FC1A-463F-A0CA-DE54740E5565}|FinancialCrm\\FinancialCrm.csproj|solutionrelative:financialcrm\\frmbanks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0BD86B9-FC1A-463F-A0CA-DE54740E5565}|FinancialCrm\\FinancialCrm.csproj|c:\\users\\ilyas\\source\\repos\\financialcrm\\financialcrm\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A0BD86B9-FC1A-463F-A0CA-DE54740E5565}|FinancialCrm\\FinancialCrm.csproj|C:\\Users\\Ilyas\\Documents\\GitHub\\CSharpEgitimKampi-MuratYucedag\\FinalProject-FinancialCrm\\financialcrm\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A0BD86B9-FC1A-463F-A0CA-DE54740E5565}|FinancialCrm\\FinancialCrm.csproj|solutionrelative:financialcrm\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0BD86B9-FC1A-463F-A0CA-DE54740E5565}|FinancialCrm\\FinancialCrm.csproj|C:\\Users\\Ilyas\\source\\repos\\FinancialCrm\\financialcrm\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0BD86B9-FC1A-463F-A0CA-DE54740E5565}|FinancialCrm\\FinancialCrm.csproj|C:\\Users\\Ilyas\\Documents\\GitHub\\CSharpEgitimKampi-MuratYucedag\\FinalProject-FinancialCrm\\financialcrm\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0BD86B9-FC1A-463F-A0CA-DE54740E5565}|FinancialCrm\\FinancialCrm.csproj|solutionrelative:financialcrm\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,10 +28,10 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FrmBanks.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Ilyas\\source\\repos\\FinancialCrm\\FinancialCrm\\FrmBanks.cs",
+              "DocumentMoniker": "C:\\Users\\Ilyas\\Documents\\GitHub\\CSharpEgitimKampi-MuratYucedag\\FinalProject-FinancialCrm\\FinancialCrm\\FrmBanks.cs",
               "RelativeDocumentMoniker": "FinancialCrm\\FrmBanks.cs",
-              "ToolTip": "C:\\Users\\Ilyas\\source\\repos\\FinancialCrm\\FinancialCrm\\FrmBanks.cs [Design]*",
-              "RelativeToolTip": "FinancialCrm\\FrmBanks.cs [Design]*",
+              "ToolTip": "C:\\Users\\Ilyas\\Documents\\GitHub\\CSharpEgitimKampi-MuratYucedag\\FinalProject-FinancialCrm\\FinancialCrm\\FrmBanks.cs [Design]",
+              "RelativeToolTip": "FinancialCrm\\FrmBanks.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T12:22:24.739Z",
               "EditorCaption": " [Design]"
@@ -40,26 +40,24 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "FrmDashboard.cs",
-              "DocumentMoniker": "C:\\Users\\Ilyas\\source\\repos\\FinancialCrm\\FinancialCrm\\FrmDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Ilyas\\Documents\\GitHub\\CSharpEgitimKampi-MuratYucedag\\FinalProject-FinancialCrm\\FinancialCrm\\FrmDashboard.cs",
               "RelativeDocumentMoniker": "FinancialCrm\\FrmDashboard.cs",
-              "ToolTip": "C:\\Users\\Ilyas\\source\\repos\\FinancialCrm\\FinancialCrm\\FrmDashboard.cs",
+              "ToolTip": "C:\\Users\\Ilyas\\Documents\\GitHub\\CSharpEgitimKampi-MuratYucedag\\FinalProject-FinancialCrm\\FinancialCrm\\FrmDashboard.cs",
               "RelativeToolTip": "FinancialCrm\\FrmDashboard.cs",
               "ViewState": "AgIAAC8AAAAAAAAAAAAYwEYAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T13:20:44.239Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T13:20:44.239Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "FrmDashboard.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Ilyas\\source\\repos\\FinancialCrm\\FinancialCrm\\FrmDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Ilyas\\Documents\\GitHub\\CSharpEgitimKampi-MuratYucedag\\FinalProject-FinancialCrm\\FinancialCrm\\FrmDashboard.cs",
               "RelativeDocumentMoniker": "FinancialCrm\\FrmDashboard.cs",
               "ToolTip": "C:\\Users\\Ilyas\\source\\repos\\FinancialCrm\\FinancialCrm\\FrmDashboard.cs [Design]",
-              "RelativeToolTip": "FinancialCrm\\FrmDashboard.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\FinancialCrm\\FinancialCrm\\FrmDashboard.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T13:14:20.598Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-04T13:14:20.598Z"
             }
           ]
         }

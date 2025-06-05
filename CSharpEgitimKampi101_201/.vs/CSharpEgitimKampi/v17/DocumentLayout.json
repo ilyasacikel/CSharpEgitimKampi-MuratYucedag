@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ilyas\\Documents\\GitHub\\CSharpEgitimKampi-MuratYucedag\\CSharpEgitimKampi101_201\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F340DF3-2096-4FE5-8F4C-5CBCBFCBC7E2}|09_DatabaseProject\\09_DatabaseProject.csproj|C:\\Users\\Ilyas\\Documents\\GitHub\\CSharpEgitimKampi-MuratYucedag\\CSharpEgitimKampi101_201\\09_databaseproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F340DF3-2096-4FE5-8F4C-5CBCBFCBC7E2}|09_DatabaseProject\\09_DatabaseProject.csproj|solutionrelative:09_databaseproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A8AF7F-107D-4F9F-A5FB-1D6DA42F3336}|10_DatabaseCrud\\10_DatabaseCrud.csproj|c:\\users\\ilyas\\documents\\github\\csharpegitimkampi-muratyucedag\\csharpegitimkampi101_201\\10_databasecrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A8AF7F-107D-4F9F-A5FB-1D6DA42F3336}|10_DatabaseCrud\\10_DatabaseCrud.csproj|solutionrelative:10_databasecrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ilyas\\Documents\\GitHub\\CSharpEgitimKampi-MuratYucedag\\CSharpEgitimKampi101_201\\10_DatabaseCrud\\Program.cs",
+              "RelativeDocumentMoniker": "10_DatabaseCrud\\Program.cs",
+              "ToolTip": "C:\\Users\\Ilyas\\Documents\\GitHub\\CSharpEgitimKampi-MuratYucedag\\CSharpEgitimKampi101_201\\10_DatabaseCrud\\Program.cs",
+              "RelativeToolTip": "10_DatabaseCrud\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAGEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:48:16.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ilyas\\Documents\\GitHub\\CSharpEgitimKampi-MuratYucedag\\CSharpEgitimKampi101_201\\09_DatabaseProject\\Program.cs",
+              "RelativeDocumentMoniker": "09_DatabaseProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Ilyas\\Documents\\GitHub\\CSharpEgitimKampi-MuratYucedag\\CSharpEgitimKampi101_201\\09_DatabaseProject\\Program.cs",
+              "RelativeToolTip": "09_DatabaseProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T15:41:15.308Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
