@@ -58,14 +58,11 @@ namespace FinancialCrm
             series2.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Pie;
 
             var totalBillAmount = db.Bills.Sum(x => x.BillAmount);
-            //int i = 1;
 
             foreach(var item in billData)
             {
-                var percentageBillAmount = (item.BillAmount / totalBillAmount * 100).ToString();
+                var percentageBillAmount = (item.BillAmount / totalBillAmount * 100)?.ToString("#.##");
 
-                //series2.Points[i].Label = percentageBillAmount.ToString();
-                //series2.Points[i++].LegendText = item.BillTitle;
                 series2.Points.AddXY(item.BillTitle, percentageBillAmount);
                 series2.Points[series2.Points.Count - 1].Label = $"{percentageBillAmount}%";
                 series2.Points[series2.Points.Count - 1].LegendText = item.BillTitle;
