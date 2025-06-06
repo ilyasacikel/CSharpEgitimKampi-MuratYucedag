@@ -79,29 +79,6 @@ Bu repo, Youtube [Murat Yücedağ C# Eğitim Serisi](https://youtube.com/playlis
 * Form kontrolleriyle filtreleme ve listeleme
 * Kod okunabilirliğine önem verilmiş yapı
 
-### 📁 Proje Klasör Yapısı
-```
-FinalProject-FinancialCrm/
-│
-├── FinancialCrm/        # Uygulama arayüzü (WinForms)
-├── App.config           # Veritabanı bağlantı ayarları
-├── Models/              # EF DB First modelleri
-└── Forms/               # Form ekranları
-```
-
-### 🚀 Başlatmak İçin
-1. Bu repoyu klonlayın:
-   ```bash
-   git clone https://github.com/ilyasacikel/CSharpEgitimKampi-MuratYucedag.git
-
-2. Visual Studio ile FinancialCrm.sln dosyasını açın.
-
-3. Veritabanı bağlantısını App.config dosyasından kendi MSSQL sunucunuza göre ayarlayın.
-
-4. NuGet paketlerini yükleyin.
-
-5. Uygulamayı çalıştırın (F5).
-
 ### 📸 Ekran Görüntüleri
 
 ![image](https://github.com/user-attachments/assets/b9309702-4b92-4613-8cd4-b6feb189ac85)
